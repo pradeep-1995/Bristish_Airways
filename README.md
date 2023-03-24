@@ -110,3 +110,6 @@ It is a technique used to represent categorical variables as numerical data in m
 #### Model 2 : Random forest classifier with All features
 #### Model 3 : XGB classifier with top 6 features
 #### Model 4 : XGB classifier with all features
+
+# Task 1 -[https://github.com/pradeep-1995/Bristish_Airways/blob/main/Task%202%20-%20Resource.pptx]
+# Task 2 -[https://github.com/pradeep-1995/Bristish_Airways/blob/main/British_airways_task_2.ipynb]
